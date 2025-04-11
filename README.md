@@ -1,7 +1,7 @@
 # Data-Science-Job-Salaries-Dashboard
 
 ### 📊 Dashboard Link: https://app.powerbi.com/groups/me/reports/c8414d4c-0ff8-4496-99f0-f415c0bb2c87/b85f398206b213ab5702?experience=power-bi
-
+### 📊 PDF Link: https://github.com/mayankb-rm/Data-Science-Job-Salaries-Dashboard/blob/main/Data%20Science%20Job%20Salaries%20Dashboard.pdf
 ---
 
 ## 📌 Problem Statement
